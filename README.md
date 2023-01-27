@@ -2,9 +2,9 @@
 
 <br/>
 
-- :frowning_man: 25 anos, casado e natural de Osasco/SP
-- :man_technologist: Atualmente trabalho como Analista de Sistemas Júnior
-- :books: Graduado em Ciência da Computação pela Universidade São Judas Tadeu
+:frowning_man: 25 anos, casado e natural de Osasco/SP <br/>
+:man_technologist: Atualmente trabalho como Analista de Sistemas Júnior <br/>
+:books: Graduado em Ciência da Computação pela Universidade São Judas Tadeu <br/>
 
 <br/>
 
@@ -35,7 +35,7 @@
 <br/>
 <br/>
 
-<div style="display: block">
+<div>
   <a href="https://github.com/marcosvcsilva97">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosvcsilva97&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosvcsilva97&layout=compact&langs_count=16&theme=cobalt" />
