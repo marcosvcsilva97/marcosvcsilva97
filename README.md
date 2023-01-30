@@ -1,10 +1,9 @@
-### Olá! Eu sou Marcos Silva... 👋
-
-<br/>
-
-:frowning_man: 25 anos, casado e natural de Osasco/SP <br/>
-:man_technologist: Atualmente trabalho como Analista de Sistemas Júnior <br/>
-:books: Graduado em Ciência da Computação pela Universidade São Judas Tadeu <br/>
+<div>
+  <h2>:zap: Introdução</h2>
+  :frowning_man: Eu sou Marcos Silva, tenho 25 anos, sou casado e natural de Osasco/SP<br/>
+  :man_technologist: Atualmente trabalho como Analista de Sistemas Júnior<br/>
+  :books: Graduado em Ciência da Computação pela Universidade São Judas Tadeu<br/>
+</div>
 
 <br/>
 
@@ -22,7 +21,6 @@
 </div>
 
 <br/>
-<br/>
 
 <div>
   <h2> :hammer_and_wrench: Tecnologias </h2>
@@ -33,12 +31,10 @@
 </div>
 
 <br/>
-<br/>
 
 <div>
-<h2> :chart_with_upwards_trend: Estatísticas </h2>
+<h2> :chart_with_upwards_trend: GitHub Estatísticas </h2>
   <a href="https://github.com/marcosvcsilva97">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcosvcsilva97&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosvcsilva97&layout=compact&langs_count=16&theme=cobalt" />
 </div>
-
