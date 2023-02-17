@@ -3,6 +3,7 @@
   :frowning_man: Eu sou Marcos Silva, tenho 25 anos, sou casado e natural de Osasco/SP<br/>
   :man_technologist: Atualmente trabalho como Analista de Sistemas Júnior<br/>
   :books: Graduado em Ciência da Computação pela Universidade São Judas Tadeu<br/>
+  :heart: Apaixonado por Tecnologia e Desenvolvimento Front-End
 </div>
 
 <br/>
