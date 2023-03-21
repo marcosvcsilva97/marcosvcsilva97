@@ -1,5 +1,5 @@
 <div>
-  <h2>:zap: Introdução</h2>
+  <h2> :zap: Introdução</h2>
   :frowning_man: Eu sou Marcos Silva, tenho 25 anos e natural de Osasco/SP<br/>
   :man_technologist: Atualmente trabalho como Analista de Sistemas Júnior<br/>
   :books: Graduado em Ciência da Computação pela Universidade São Judas Tadeu<br/>
