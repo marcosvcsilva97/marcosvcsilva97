@@ -36,6 +36,6 @@
 <div>
 <h2> :chart_with_upwards_trend: GitHub Estatísticas </h2>
   <a href="https://github.com/marcosvcsilva97">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcosvcsilva97&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosvcsilva97&layout=compact&langs_count=16&theme=cobalt"/>
+  <img height="300em" src="https://github-readme-stats.vercel.app/api?username=marcosvcsilva97&show_icons=true&theme=cobalt" />
+  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosvcsilva97&langs_count=16&theme=cobalt"/>
 </div>
