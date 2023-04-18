@@ -1,7 +1,7 @@
 <div>
   <h2> :zap: Introdução</h2>
   :frowning_man: Eu sou Marcos Silva, tenho 25 anos e natural de Osasco/SP<br/>
-  :man_technologist: Atualmente trabalho como Analista de Sistemas Júnior<br/>
+  :man_technologist: Atualmente trabalho como Analista de Sistemas Júnior na BTBSoluções<br/>
   :books: Graduado em Ciência da Computação pela Universidade São Judas Tadeu<br/>
   :heart: Apaixonado por Esportes, Tecnologia e Desenvolvimento Front-End<br/>
 </div>
