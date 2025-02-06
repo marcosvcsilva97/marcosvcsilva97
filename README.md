@@ -1,11 +1,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-<div>
+
   <h2> :zap: Introdução</h2>
   :frowning_man: Eu sou Marcos Silva, tenho 25 anos e natural de Osasco/SP<br/>
   :man_technologist: Atualmente trabalho como Analista de Sistemas Júnior na BTBSoluções<br/>
   :books: Graduado em Ciência da Computação pela Universidade São Judas Tadeu<br/>
   :heart: Apaixonado por Esportes, Tecnologia e Desenvolvimento Front-End<br/>
-</div>
+
 
 <br/>
 
